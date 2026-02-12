@@ -1,0 +1,17 @@
+filaments:
+  - name: Black PLA
+    color_hex: "#111111"
+    td_mm: 0.65
+    notes: "opaque"
+  - name: Blue PLA
+    color_hex: "#2E5AAC"
+    td_mm: 0.75
+    notes: "medium"
+  - name: Orange PLA
+    color_hex: "#DF7C29"
+    td_mm: 0.85
+    notes: "medium"
+  - name: White PLA
+    color_hex: "#F1F1F1"
+    td_mm: 1.05
+    notes: "translucent"

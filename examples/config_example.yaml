@@ -1,0 +1,22 @@
+input: image.jpg
+output_dir: out
+relief:
+  width_mm: 120
+  min_mm: 0.8
+  max_mm: 3.2
+  gamma: 1.0
+  invert: false
+  blur: 0.0
+  mesh_res: 256
+plan:
+  strategy: bands
+  layer_height: 0.2
+  swap_count: 6
+  min_mm: 0.8
+  max_mm: 3.2
+  colors: 4
+  palette_method: kmeans
+  slicer: generic
+  gcode_style: none
+  seed: 42
+  preview_scale: 0.5
